@@ -13,7 +13,7 @@ Este módulo inicia describiendo algunos conceptos básicos sobre las herramient
 
 ### ORGANIZACIÓN DE MÓDULO 
  
- - [Sesión 1](https://github.com/beduExpert/Curso-Introductorio-Git-2020/tree/master/Sesion%201): Fundamentos de Git
+ - [Sesión 1](https://github.com/backmota/Curso-Introductorio-Git-2020/tree/master/Sesion%201): Fundamentos de Git
  - [Sesión 2](https://github.com/beduExpert/Curso-Introductorio-Git-2020/tree/master/Sesion%202): Ramificación
  - [Sesión 3](https://github.com/beduExpert/Curso-Introductorio-Git-2020/tree/master/Sesion%203): Servicios Distribuidos (GitLab y GitHub)
  - [Sesión 4](https://github.com/beduExpert/Curso-Introductorio-Git-2020/tree/master/Sesion%204): Herramientas de Git y personalización
