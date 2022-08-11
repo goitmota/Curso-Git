@@ -1,6 +1,6 @@
 `Cursos Introductorio` > `Git & Github`
 
-## Módulo: Curso Introductorio de Git
+## Módulo: Curso Introductorio de Git & Github
 
 Bienvenidos al curso introductorio de Git.
 
